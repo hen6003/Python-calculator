@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=true
+Exec=python3 /home/hs/Documents/Calculator/calc.py
+Name=Calculator
+Icon=/home/hs/Documents/Calculator/calc.png
