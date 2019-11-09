@@ -39,7 +39,7 @@ def calc():
     elif typ == "4":
 
         otr = "\033[92m\033[1mYou answer is \033[4m∞"
-        file  = open("output", "w")
+        file  = open("/home/hs/Documents/Calculator/output", "w")
         file.write("Output = ∞") 
         file.close()
         
@@ -50,7 +50,7 @@ def calc():
     if otr == "":
 
         print ("\033[92m\033[1m\nYou answer is \033[4m" + str(f"{numb3:g}"))
-        file  = open("output", "w")
+        file  = open("/home/hs/Documents/Calculator/output", "w")
         file.write("Output = " + str(numb3)) 
         file.close()
     
