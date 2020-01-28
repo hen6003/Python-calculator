@@ -11,11 +11,11 @@ def calculator():
 
     def calc():
         
-        print ("\033[92m\nType in a number")
+        print("\033[92m\nType in a number")
         numb1 = input("\033[0m\033[1m")
-        print ("\033[92mType in a number")
+        print("\033[92mType in a number")
         numb2 = input("\033[0m\033[1m")
-        print ("\033[92mWhat sort of sum do you want?\n1 = add\n2 = minus\n3 = times\n4 = divison")
+        print("\033[92mWhat sort of sum do you want?\n1 = add\n2 = minus\n3 = times\n4 = divison")
         typ = input("sum = \033[0m\033[1m")
         
         otr = ""
