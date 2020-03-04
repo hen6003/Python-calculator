@@ -1,2 +1,2 @@
-# Python-calculator
+# Python_calculator
 Python3 calculator
